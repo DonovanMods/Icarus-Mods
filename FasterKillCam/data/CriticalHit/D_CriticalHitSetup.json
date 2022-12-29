@@ -1,0 +1,142 @@
+{
+    "RowStruct": "/Script/Icarus.CriticalHitSetup",
+    "Defaults": {
+        "PlayerConfig": {
+            "TimeScale": 2.0,
+            "TimeLength": 0.1,
+            "FOV": 90,
+            "RotationOffset": -40.5,
+            "PivotOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 50
+            },
+            "CameraOffset": {
+                "X": 0,
+                "Y": -250,
+                "Z": 35
+            },
+            "CameraRotationOffset": {
+                "Pitch": -8,
+                "Yaw": 0,
+                "Roll": 0
+            }
+        },
+        "ProjectileConfig": {
+            "TimeScale": 2.0,
+            "CameraOffset": {
+                "X": 0,
+                "Y": -250,
+                "Z": 35
+            },
+            "CameraRotationOffset": {
+                "Pitch": -8,
+                "Yaw": 0,
+                "Roll": 0
+            },
+            "FOV": 90,
+            "CameraShake": "None"
+        },
+        "TargetConfig": {
+            "TimeScale": 2.0,
+            "TimeLength": 0.1,
+            "FOV": 90,
+            "RotationOffset": -40.5,
+            "PivotOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 50
+            },
+            "CameraOffset": {
+                "X": 0,
+                "Y": -250,
+                "Z": 35
+            },
+            "CameraRotationOffset": {
+                "Pitch": -8,
+                "Yaw": 0,
+                "Roll": 0
+            }
+        },
+        "FinishTime": 1
+    },
+    "Rows": [
+        {
+            "Name": "Example",
+            "PlayerConfig": {
+                "TimeScale": 2.0,
+                "TimeLength": 0.1,
+                "RotationOffset": 40.5234375,
+                "CameraRotationOffset": {
+                    "Pitch": -8.032769203186035
+                }
+            },
+            "ProjectileConfig": {
+                "TimeScale": 2.0,
+                "CameraOffset": {
+                    "X": -150,
+                    "Y": 0,
+                    "Z": 3
+                },
+                "CameraRotationOffset": {
+                    "Pitch": -3
+                },
+                "FOV": 65,
+                "CameraShake": "BlueprintGeneratedClass'/Game/BP/CriticalHit/ExampleCriticalHitShake.ExampleCriticalHitShake_C'"
+            },
+            "TargetConfig": {
+                "TimeScale": 2.0,
+                "TimeLength": 0.1,
+                "RotationOffset": 20,
+                "PivotOffset": {
+                    "Z": 0
+                },
+                "CameraOffset": {
+                    "Y": -500,
+                    "Z": 100
+                },
+                "CameraRotationOffset": {
+                    "Pitch": -2
+                }
+            },
+            "FinishTime": 4.25
+        },
+        {
+            "Name": "ExampleSlomo",
+            "PlayerConfig": {
+                "RotationOffset": 40.5234375,
+                "CameraRotationOffset": {
+                    "Pitch": -8.032769203186035
+                }
+            },
+            "ProjectileConfig": {
+                "TimeScale": 2.0,
+                "CameraOffset": {
+                    "X": -30,
+                    "Y": 0,
+                    "Z": 3
+                },
+                "CameraRotationOffset": {
+                    "Pitch": -3
+                },
+                "FOV": 65,
+                "CameraShake": "BlueprintGeneratedClass'/Game/BP/CriticalHit/ExampleCriticalHitShake.ExampleCriticalHitShake_C'"
+            },
+            "TargetConfig": {
+                "TimeScale": 2.0,
+                "TimeLength": 0.1,
+                "RotationOffset": 20,
+                "PivotOffset": {
+                    "Z": 0
+                },
+                "CameraOffset": {
+                    "Y": -500,
+                    "Z": 100
+                },
+                "CameraRotationOffset": {
+                    "Pitch": -2
+                }
+            }
+        }
+    ]
+}
