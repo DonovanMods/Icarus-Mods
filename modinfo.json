@@ -7,16 +7,17 @@
       "compatibility": "w56",
       "description": "Increases the stack size of wood and stone, including the craftable resource stacks",
       "fileType": "pak",
-      "fileURL": "https://github.com/Donovan522/Icarus-Mods/raw/main/LargerResourceStacks/LargerResourceStacks_P.pak"
+      "fileURL": "https://github.com/DonovanMods/Icarus-Mods/raw/main/LargerResourceStacks/LargerResourceStacks_P.pak"
     },
     {
       "name": "Faster Kill Cam",
       "author": "Donovan",
       "version": "1.0",
       "compatibility": "w56",
-      "description": "Halfs the critical kill cam time. *WARNING* This mod is not compatible with multiplayer, and may cause desyncs!",
+      "description": "Halfs the critical kill cam time [Solo players only]",
+      "long_description": "Halfs the critical kill cam time. *WARNING* This mod is not compatible with multiplayer, and may cause desyncs!",
       "fileType": "pak",
-      "fileURL": "https://github.com/Donovan522/Icarus-Mods/raw/main/FasterKillCam/FasterKillCam_P.pak"
+      "fileURL": "https://github.com/DonovanMods/Icarus-Mods/raw/main/FasterKillCam/FasterKillCam_P.pak"
     }
   ]
 }
