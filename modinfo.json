@@ -20,6 +20,16 @@
       "fileType": "pak",
       "fileURL": "https://github.com/DonovanMods/Icarus-Mods/raw/main/FasterKillCam/FasterKillCam_P.pak",
       "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/FasterKillCam/README.md"
+    },
+    {
+      "name": "More Points",
+      "author": "Donovan",
+      "version": "1.0",
+      "compatibility": "w58",
+      "description": "Increases the amount of talent and blueprint points you get per level",
+      "fileType": "pak",
+      "fileURL": "https://github.com/DonovanMods/Icarus-Mods/raw/main/MorePoints/FasterKillCam_P.pak",
+      "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/MorePoints/README.md"
     }
   ]
 }
