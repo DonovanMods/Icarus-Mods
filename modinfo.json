@@ -1,7 +1,7 @@
 {
   "mods": [
     {
-      "name": "Larger Stack Sizes",
+      "name": "Donovan's Larger Stack Sizes",
       "author": "Donovan",
       "version": "1.0",
       "compatibility": "w58",
@@ -11,7 +11,7 @@
       "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/LargerResourceStacks/README.md"
     },
     {
-      "name": "Faster Kill Cam",
+      "name": "Donovan's Faster Kill Cam",
       "author": "Donovan",
       "version": "1.0",
       "compatibility": "w58",
@@ -22,7 +22,7 @@
       "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/FasterKillCam/README.md"
     },
     {
-      "name": "More Points",
+      "name": "Donovan's More Points",
       "author": "Donovan",
       "version": "1.0",
       "compatibility": "w58",
