@@ -1,7 +1,7 @@
 {
   "mods": [
     {
-      "name": "Larger Stack Sizes",
+      "name": "Donovan's Larger Stack Sizes",
       "author": "Donovan",
       "version": "1.0",
       "compatibility": "w58",
@@ -11,7 +11,7 @@
       "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/LargerResourceStacks/README.md"
     },
     {
-      "name": "Faster Kill Cam",
+      "name": "Donovan's Faster Kill Cam",
       "author": "Donovan",
       "version": "1.0",
       "compatibility": "w58",
@@ -20,6 +20,16 @@
       "fileType": "pak",
       "fileURL": "https://github.com/DonovanMods/Icarus-Mods/raw/main/FasterKillCam/FasterKillCam_P.pak",
       "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/FasterKillCam/README.md"
+    },
+    {
+      "name": "Donovan's More Points",
+      "author": "Donovan",
+      "version": "1.0",
+      "compatibility": "w58",
+      "description": "Increases the amount of talent and blueprint points you get per level",
+      "fileType": "pak",
+      "fileURL": "https://github.com/DonovanMods/Icarus-Mods/raw/main/MorePoints/FasterKillCam_P.pak",
+      "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/MorePoints/README.md"
     }
   ]
 }

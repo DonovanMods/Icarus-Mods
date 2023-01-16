@@ -13,3 +13,9 @@
 > Doubles the speed of the Critical Kill Cam.
 
 - [Faster Kill Cam](FasterKillCam)
+
+## More Points
+
+> Increases the amount of talent and blueprint points you get per level, up to level 50.
+
+- [More Points](MorePoints)
