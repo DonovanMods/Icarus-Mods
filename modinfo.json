@@ -4,32 +4,40 @@
       "name": "Donovan's Faster Kill Cam",
       "author": "Donovan",
       "version": "1.0",
-      "compatibility": "w60",
+      "compatibility": "w61",
       "description": "Halfs the critical kill cam time [Solo players only]",
-      "long_description": "Halfs the critical kill cam time. *WARNING* This mod is not compatible with multiplayer, and may cause desyncs!",
-      "fileType": "pak",
-      "fileURL": "https://github.com/DonovanMods/Icarus-Mods/raw/main/FasterKillCam/FasterKillCam_P.pak",
-      "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/FasterKillCam/README.md"
+      "imageURL": "",
+      "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/FasterKillCam/README.md",
+      "files": {
+          "pak": "https://github.com/DonovanMods/Icarus-Mods/raw/main/FasterKillCam/FasterKillCam_P.pak",
+          "exmodz": "https://github.com/DonovanMods/Icarus-Mods/raw/main/FasterKillCam/FasterKillCam.EXMODZ"
+      }
     },
     {
       "name": "Donovan's Larger Stack Sizes",
       "author": "Donovan",
       "version": "1.0",
-      "compatibility": "w60",
+      "compatibility": "w61",
       "description": "Increases the stack size of wood and stone, including the craftable resource stacks",
-      "fileType": "pak",
-      "fileURL": "https://github.com/DonovanMods/Icarus-Mods/raw/main/LargerResourceStacks/LargerResourceStacks_P.pak",
-      "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/LargerResourceStacks/README.md"
+      "imageURL": "",
+      "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/LargerResourceStacks/README.md",
+      "files": {
+          "pak": "https://github.com/DonovanMods/Icarus-Mods/raw/main/LargerResourceStacks/LargerResourceStacks_P.pak",
+          "exmodz": "https://github.com/DonovanMods/Icarus-Mods/raw/main/LargerResourceStacks/LargerResourceStacks.EXMODZ"
+      }
     },
     {
       "name": "Donovan's More Points",
       "author": "Donovan",
       "version": "1.0",
-      "compatibility": "w60",
+      "compatibility": "w61",
       "description": "Increases the amount of talent and blueprint points you get per level",
-      "fileType": "pak",
-      "fileURL": "https://github.com/DonovanMods/Icarus-Mods/raw/main/MorePoints/MorePoints_P.pak",
-      "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/MorePoints/README.md"
+      "imageURL": "",
+      "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/MorePoints/README.md",
+      "files": {
+          "pak": "https://github.com/DonovanMods/Icarus-Mods/raw/main/MorePoints/MorePoints_P.pak",
+          "exmodz": "https://github.com/DonovanMods/Icarus-Mods/raw/main/MorePoints/MorePoints.EXMODZ"
+      }
     }
   ]
 }
