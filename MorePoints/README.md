@@ -1,6 +1,6 @@
 # Donovan's More Points
 
-Increases the amount of talent and blueprint points you get per level, up to level 50.
+Increases the amount of talent and blueprint points you get per level, up to level 60.
 
 > _Note:_
 > This was originally based on the zenProgression mod by M.Becile,

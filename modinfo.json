@@ -9,34 +9,21 @@
       "imageURL": "",
       "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/FasterKillCam/README.md",
       "files": {
-          "pak": "https://github.com/DonovanMods/Icarus-Mods/raw/main/FasterKillCam/FasterKillCam_P.pak",
-          "exmodz": "https://github.com/DonovanMods/Icarus-Mods/raw/main/FasterKillCam/FasterKillCam.EXMODZ"
-      }
-    },
-    {
-      "name": "Donovan's Larger Stack Sizes",
-      "author": "Donovan",
-      "version": "1.0",
-      "compatibility": "w61",
-      "description": "Increases the stack size of wood and stone, including the craftable resource stacks",
-      "imageURL": "",
-      "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/LargerResourceStacks/README.md",
-      "files": {
-          "pak": "https://github.com/DonovanMods/Icarus-Mods/raw/main/LargerResourceStacks/LargerResourceStacks_P.pak",
-          "exmodz": "https://github.com/DonovanMods/Icarus-Mods/raw/main/LargerResourceStacks/LargerResourceStacks.EXMODZ"
+        "pak": "https://github.com/DonovanMods/Icarus-Mods/raw/main/FasterKillCam/FasterKillCam_P.pak",
+        "exmodz": "https://github.com/DonovanMods/Icarus-Mods/raw/main/FasterKillCam/FasterKillCam.EXMODZ"
       }
     },
     {
       "name": "Donovan's More Points",
       "author": "Donovan",
-      "version": "1.0",
-      "compatibility": "w61",
+      "version": "2.0",
+      "compatibility": "w170",
       "description": "Increases the amount of talent and blueprint points you get per level",
       "imageURL": "",
       "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/MorePoints/README.md",
       "files": {
-          "pak": "https://github.com/DonovanMods/Icarus-Mods/raw/main/MorePoints/MorePoints_P.pak",
-          "exmodz": "https://github.com/DonovanMods/Icarus-Mods/raw/main/MorePoints/MorePoints.EXMODZ"
+        "pak": "https://github.com/DonovanMods/Icarus-Mods/raw/main/MorePoints/MorePoints_P.pak",
+        "exmodz": "https://github.com/DonovanMods/Icarus-Mods/raw/main/MorePoints/MorePoints.EXMODZ"
       }
     }
   ]
