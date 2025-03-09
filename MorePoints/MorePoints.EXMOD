@@ -1,0 +1,16 @@
+{
+        "name": "Donovan's More Points",
+        "author": "Donovan",
+        "version": "2.1",
+        "week": "",
+        "description": "Increases the amount of talent and blueprint points you get per level",
+        "fileName": "MorePoints",
+        "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/MorePoints/README.md",
+        "imageURL": "",
+        "Level2": "True",
+        "Rows": [
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}

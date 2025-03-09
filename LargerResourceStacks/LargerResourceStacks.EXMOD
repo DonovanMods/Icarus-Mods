@@ -1,0 +1,60 @@
+{
+        "name": "Donovan's Larger Resource Stacks (Wood & Stone)",
+        "author": "Donovan",
+        "version": "1.1",
+        "week": "",
+        "description": "Increases the stack size of wood and stone, including the craftable resource stacks",
+        "fileName": "LargerResourceStacks",
+        "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/LargerResourceStacks/README.md",
+        "imageURL": "",
+        "Level2": "True",
+        "Rows": [
+        {
+            "CurrentFile": "Crafting-D_ProcessorRecipes.json",
+            "File_Items": [
+                {
+                    "Name": "ResourceStack_Wood",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Wood",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 500,
+                            "DynamicProperties": []
+                        }
+                    ]
+                },
+                {
+                    "Name": "ResourceStack_Stone",
+                    "Inputs": [
+                        {
+                            "Element": {
+                                "RowName": "Stone",
+                                "DataTableName": "D_ItemsStatic"
+                            },
+                            "Count": 200,
+                            "DynamicProperties": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "CurrentFile": "Traits-D_Itemable.json",
+            "File_Items": [
+                {
+                    "Name": "Item_Stone",
+                    "MaxStack": 200
+                },
+                {
+                    "Name": "Item_Wood",
+                    "MaxStack": 500
+                }
+            ]
+        },
+        {
+            "CurrentFile": "EndOfMod"
+        }
+    ]
+}
