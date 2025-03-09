@@ -1,7 +1,7 @@
 {
         "name": "Donovan's More Points",
         "author": "Donovan",
-        "version": "2.1",
+        "version": "2.2",
         "week": "",
         "description": "Increases the amount of talent and blueprint points you get per level",
         "fileName": "MorePoints",

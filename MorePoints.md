@@ -1,3 +1,7 @@
 # Donovan's More Points
 
-2x the talent and blueprint points you get per level
+Doubles the talent and blueprint points you get per level
+
+- 1 Solo Talent points per level
+- 3 Talent Points per level
+- 7 Blueprint points per level

@@ -11,12 +11,20 @@
 
 ## More Points
 
-> 2x talent and blueprint points per level
+> Doubles the talent and blueprint points you get per level
+>
+> - 1 Solo Talent points per level
+> - 3 Talent Points per level
+> - 7 Blueprint points per level
 
 [More Points](MorePoints)
 
 ## Mega Points
 
-> 4x talent and blueprint points per level
+> Increases the talent and blueprint points you get per level
+>
+> - 2 Solo Talent points per level (4 at level 1)
+> - 6 Talent Points per level
+> - 10 Blueprint points per level
 
 [Mega Points](MegaPoints)
