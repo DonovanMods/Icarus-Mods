@@ -7,9 +7,9 @@
       "compatibility": "w170",
       "description": "Increases the stack size of wood and stone, including the craftable resource stacks",
       "imageURL": "",
-      "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/LargerResourceStacks/LargerResourceStacks.md",
+      "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/LargerResourceStacks.md",
       "files": {
-        "exmodz": "https://github.com/DonovanMods/Icarus-Mods/raw/main/LargerResourceStacks/LargerResourceStacks.EXMODZ"
+        "exmodz": "https://github.com/DonovanMods/Icarus-Mods/raw/main/LargerResourceStacks.EXMODZ"
       }
     },
     {
@@ -19,9 +19,9 @@
       "compatibility": "w170",
       "description": "2x talent and blueprint points per level",
       "imageURL": "",
-      "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/MorePoints/MorePoints.md",
+      "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/MorePoints.md",
       "files": {
-        "exmodz": "https://github.com/DonovanMods/Icarus-Mods/raw/main/MorePoints/MorePoints.EXMODZ"
+        "exmodz": "https://github.com/DonovanMods/Icarus-Mods/raw/main/MorePoints.EXMODZ"
       }
     },
     {
@@ -31,9 +31,9 @@
       "compatibility": "w170",
       "description": "4x talent and blueprint points per level",
       "imageURL": "",
-      "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/MegaPoints/MegaPoints.md",
+      "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/MegaPoints.md",
       "files": {
-        "exmodz": "https://github.com/DonovanMods/Icarus-Mods/raw/main/MegaPoints/MegaPoints.EXMODZ"
+        "exmodz": "https://github.com/DonovanMods/Icarus-Mods/raw/main/MegaPoints.EXMODZ"
       }
     }
   ]
