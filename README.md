@@ -2,20 +2,29 @@
 
 ## Larger Resource Stacks
 
-> Increases the size of wood and stone resource stacks in the game.
+> Increases the size of wood and stone resource stacks in the game. Including deployable resource piles/stacks.
 
-- [Larger Resource Stacks](LargerResourceStacks)
+- Wood = 500
+- Stone = 200
 
-## Faster Kill Cam
-
-**WARNING: This mod can cause problems on MP servers.**
-
-> Doubles the speed of the Critical Kill Cam.
-
-- [Faster Kill Cam](FasterKillCam)
+[Larger Resource Stacks](LargerResourceStacks)
 
 ## More Points
 
-> Increases the amount of talent and blueprint points you get per level, up to level 50.
+> Doubles the talent and blueprint points you get per level
+>
+> - 1 Solo Talent points per level
+> - 3 Talent Points per level
+> - 7 Blueprint points per level
 
-- [More Points](MorePoints)
+[More Points](MorePoints)
+
+## Mega Points
+
+> Increases the talent and blueprint points you get per level
+>
+> - 2 Solo Talent points per level (4 at level 1)
+> - 6 Talent Points per level
+> - 10 Blueprint points per level
+
+[Mega Points](MegaPoints)
