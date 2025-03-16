@@ -1,10 +1,11 @@
 {
   "mods": [
     {
-      "name": "Donovan's Larger Resource Stacks",
+      "name": "Donovan's Larger Resource Stacks (Wood & Stone)",
       "author": "Donovan",
-      "version": "1.2",
-      "compatibility": "w171",
+      "version": "1.3",
+      "week": "171",
+      "compatibility": "all",
       "description": "Increases the stack size of wood and stone, including the craftable resource stacks",
       "imageURL": "",
       "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/LargerResourceStacks.md",
@@ -13,27 +14,29 @@
       }
     },
     {
-      "name": "Donovan's More Points",
-      "author": "Donovan",
-      "version": "2.2",
-      "compatibility": "w171",
-      "description": "2x talent and blueprint points per level",
-      "imageURL": "",
-      "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/MorePoints.md",
-      "files": {
-        "exmodz": "https://github.com/DonovanMods/Icarus-Mods/raw/main/MorePoints.EXMODZ"
-      }
-    },
-    {
       "name": "Donovan's Mega Points",
       "author": "Donovan",
       "version": "1.0",
+      "week": "171",
       "compatibility": "w171",
-      "description": "4x talent and blueprint points per level",
+      "description": "6 talent points and 10 blueprint points per level",
       "imageURL": "",
       "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/MegaPoints.md",
       "files": {
         "exmodz": "https://github.com/DonovanMods/Icarus-Mods/raw/main/MegaPoints.EXMODZ"
+      }
+    },
+    {
+      "name": "Donovan's More Points",
+      "author": "Donovan",
+      "version": "2.2",
+      "week": "171",
+      "compatibility": "w171",
+      "description": "Increases the amount of talent and blueprint points you get per level",
+      "imageURL": "",
+      "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/MorePoints.md",
+      "files": {
+        "exmodz": "https://github.com/DonovanMods/Icarus-Mods/raw/main/MorePoints.EXMODZ"
       }
     }
   ]

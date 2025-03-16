@@ -1,11 +1,11 @@
 {
     "name": "Donovan's Larger Resource Stacks (Wood & Stone)",
     "author": "Donovan",
-    "version": "1.2",
+    "version": "1.3",
     "week": "171",
     "description": "Increases the stack size of wood and stone, including the craftable resource stacks",
     "fileName": "LargerResourceStacks",
-    "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/LargerResourceStacks/README.md",
+    "readmeURL": "https://raw.githubusercontent.com/DonovanMods/Icarus-Mods/main/LargerResourceStacks.md",
     "imageURL": "",
     "Level2": "True",
     "Rows": [
@@ -33,7 +33,7 @@
                                 "RowName": "Stone",
                                 "DataTableName": "D_ItemsStatic"
                             },
-                            "Count": 200,
+                            "Count": 250,
                             "DynamicProperties": []
                         }
                     ]
@@ -45,10 +45,14 @@
             "File_Items": [
                 {
                     "Name": "Item_Stone",
-                    "MaxStack": 200
+                    "MaxStack": 250
                 },
                 {
                     "Name": "Item_Wood",
+                    "MaxStack": 500
+                },
+                {
+                    "Name": "Item_Stick",
                     "MaxStack": 500
                 },
                 {
